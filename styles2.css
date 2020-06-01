@@ -1,0 +1,35 @@
+
+*{
+  color: white;
+  background-color: green;
+}
+
+h1{
+  text-transform: capitalize;
+}
+
+.h1_uppercase{
+  text-transform: uppercase !important;
+}
+
+.p_pertama{
+  text-align: justify;
+}
+
+.p_kedua{
+  text-decoration: underline;
+}
+
+.p_tiga{
+  text-align: center;
+}
+
+.p_empat{
+  text-align: center;
+}
+
+.p_lima{
+  text-decoration: line-through;
+}
+
+/* end Tugas 2 here */
